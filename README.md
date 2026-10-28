@@ -1,4 +1,4 @@
-# Edinburgh photo print price comparison: notes
+# TAC: Edinburgh photo print price comparison
 
 Prices were collected on 27 October 2026 from each shop's website. Prices change, so check with the shop before ordering.
 
